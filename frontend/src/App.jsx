@@ -5,7 +5,7 @@ function App() {
       {/* Navigation */}
       <nav className="navbar">
         <a className="logo" href="#home">
-          Pranitha.
+          Kusakula Pranitha
         </a>
 
         <div className="nav-links">
